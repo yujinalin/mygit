@@ -20,6 +20,8 @@ struct STypeAnalysisRule
 	QString m_crossRule;//Ωªø‰πÊ‘Ú
 };
 
+
+
 class CAnalysisRule
 {
 public:
