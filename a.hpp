@@ -9,6 +9,8 @@
 
 //my test add
 
+//branch 1
+
 struct STypeAnalysisRule
 {
 	int m_pointType;
