@@ -7,6 +7,8 @@
 #include <vector>
 #include "comm/commFunc.hpp"
 
+//my test add
+
 struct STypeAnalysisRule
 {
 	int m_pointType;
